@@ -13,6 +13,11 @@ Input-2: x = -123
 Output-1: x = 321
 Output-2: x = -321
 
+Concepts Used:
+==============
+Overflow in case of addition: https://www.geeksforgeeks.org/check-for-integer-overflow/
+Overflow in case of multiplication: https://www.geeksforgeeks.org/check-integer-overflow-multiplication/
+
 */
 
 int reverse(int a) {
